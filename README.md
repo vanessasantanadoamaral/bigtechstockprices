@@ -153,7 +153,7 @@ Após a finalização de toda a EDA, foi gerado uma nova tabela final (`df_merge
 </details>
 
 <details>
-<summary><strong style="font-size: 16px;">Resultados e Recomendações</strong></summary>
+<summary><strong style="font-size: 16px;">Resultados e recomendações</strong></summary>
 
   **Visão geral do comportamento das ações:**
 
@@ -206,7 +206,7 @@ Após a finalização de toda a EDA, foi gerado uma nova tabela final (`df_merge
 
 - A análise examinou tendências por mês e ano, e rentabilidade mensal acumulada. A validação estatística confirmou a existência de sazonalidade na variação percentual.
 
-### Principais Recomendações
+### Principais recomendações
 
 - **Alocação de Capital:** Considerar alocar capital em ações com melhor histórico de rentabilidade (Netflix, Amazon), monitorando a volatilidade (absoluta e relativa) e seu perfil de risco.
 - **Estratégia Refinada:** Utilizar as análises por segmento (empresa, tendência, variação) e os perfis de risco (absoluto e relativo) para refinar estratégias de investimento e tomada de decisão.
