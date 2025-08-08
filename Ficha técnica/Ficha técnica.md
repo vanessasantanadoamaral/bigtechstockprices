@@ -1,0 +1,1 @@
+[Clique para acessar a ficha técnica](https://www.notion.so/Ficha-t-cnica-Projeto-04-20f44b34ba3f81488ee9ffc4f350c559?source=copy_link)
